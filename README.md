@@ -15,6 +15,9 @@ We're going to make a file that will print ["Hello World!"](http://en.wikipedia.
 ## Instructions
 
 Get started by clicking the Open button in Learn. 
+learn open lab-repository-name-example-v-000
+hello_world.rb
+
 
 ### Creating a File
 

@@ -7,6 +7,8 @@ We're going to make a file that will print ["Hello World!"](http://en.wikipedia.
 ## Objectives
 
 1. Create a new Ruby file.
+2. touch hello_world.rb
+3. 
 2. Write syntactically valid code to produce "Hello World!"
 3. Run a Ruby file.
 4. Run the Learn gem.

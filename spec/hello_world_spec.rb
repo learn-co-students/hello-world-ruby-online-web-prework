@@ -10,3 +10,7 @@ describe "Hello World" do
     load './hello_world.rb'
   end
 end
+
+puts "hello_world!"
+load './hello_world.rb'
+end 

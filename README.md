@@ -11,6 +11,7 @@ We're going to make a file that will print ["Hello World!"](http://en.wikipedia.
 3. Run a Ruby file.
 4. Run the Learn gem.
 5. Submit a Learn lab.
+6. 
 
 ## Instructions
 
